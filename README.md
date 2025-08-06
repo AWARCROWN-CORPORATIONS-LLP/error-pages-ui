@@ -206,7 +206,7 @@ touch index.html
 ```bash
 git add .
 git commit -m "Added 404 error page design"
-git push origin siri/404-page
+git push origin {your_name}/404-page
 ```
 
 ### 5. Create a Pull Request

@@ -27,8 +27,7 @@ Each error page is organized in a dedicated folder named after its corresponding
 error-pages-ui/
 ├── your_name/
 │   └── 400.shtml
-├── your_name/
-│   └── 500.shtml
+│   └── 402.shtml
 └── ...
 ```
 

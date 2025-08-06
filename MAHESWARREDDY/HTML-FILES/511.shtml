@@ -63,7 +63,7 @@
             border-radius: 30%;
         }
     .error-code {
-        font-size: 50px;
+        font-size: 40px;
         color: #dc3545;
         animation: bounce 1s; 
 

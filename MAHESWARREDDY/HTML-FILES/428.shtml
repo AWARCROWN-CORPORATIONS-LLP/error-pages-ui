@@ -243,7 +243,7 @@
             src="../FUN-IMAGES/428-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 428</div>
+            <div class="error-code">Vanguard 428 - Precondition Required</div>
         </div>
         <div class="error-message">No conditions, no deal. Server’s not your local vendor!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

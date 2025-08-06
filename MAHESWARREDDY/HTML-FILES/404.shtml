@@ -239,7 +239,7 @@
             src="../FUN-IMAGES/404-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 404</div>
+            <div class="error-code">Vanguard 404 - Not Found</div>
         </div>
         <div class="error-message">Page vanished, like samosas at a party!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

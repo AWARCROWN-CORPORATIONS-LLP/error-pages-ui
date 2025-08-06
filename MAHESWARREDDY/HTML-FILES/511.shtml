@@ -240,7 +240,7 @@
     <div class="error-container"><img src="../FUN-IMAGES/511-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 511</div>
+            <div class="error-code">Vanguard 511 - Network Authentication Required </div>
         </div>
         <div class="error-message">Show your network ID, or no Wi-Fi!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

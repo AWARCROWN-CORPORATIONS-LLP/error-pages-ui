@@ -238,7 +238,7 @@
     <div class="error-container"><img src="../FUN-IMAGES/413-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 413</div>
+            <div class="error-code">Vanguard 413 - Payload Too Large</div>
         </div>
         <div class="error-message">File too big? Server’s full, bro!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

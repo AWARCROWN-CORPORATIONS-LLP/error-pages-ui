@@ -240,7 +240,7 @@
             src="../FUN-IMAGES/406-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 406</div>
+            <div class="error-code">Vanguard 406 - Not Acceptable</div>
         </div>
         <div class="error-message">Not my type, sorry!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

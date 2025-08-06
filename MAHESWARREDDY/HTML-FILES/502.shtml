@@ -240,7 +240,7 @@
             src="../FUN-IMAGES/502-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 502</div>
+            <div class="error-code">Vanguard 502 - Bad Gateway</div>
         </div>
         <div class="error-message">Dodgy reply, like a fake news forward!<br><b><a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.

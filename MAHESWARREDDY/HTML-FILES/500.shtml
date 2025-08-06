@@ -241,7 +241,7 @@
             src="../FUN-IMAGES/500-IMG.png"
             alt="image" class="logo-error">
         <div class="error-msg-img-container">
-            <div class="error-code">Vanguard 500</div>
+            <div class="error-code">Vanguard 500 - Internal Server Error</div>
         </div>
         <div class="error-message">Meltdown, like your boss on a bad day!<br><b>Please try again later or<a href="https://awarcrown.com"> return to the homepage</b>.</a></div>
         For further assistance, <a href="mailto:support@awarcrown.com">contact support</a>.
